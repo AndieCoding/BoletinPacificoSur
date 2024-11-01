@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Meteocenter</title>
+    <link rel="stylesheet" type="text/css" href="./css/styles.css" />
+    <link rel="icon" type="image/icon" href="./css/img/logo-nobg.png" />
+    <!-- leaflet-map -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <!-- letras -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap" rel="stylesheet">
+    <script src="./js/news.js" type="module"></script>
+    <script src="./js/web-components/news-card.js" type="module"></script>
+    <script src="./js/clima.js" type="module"></script>
+  </head>
+  <body id="clima">
+    <header>
+      <menu-component></menu-component>
+    </header>
+    <dolar-component></dolar-component>
+
+    <div class="relative"> <!-- titulo -->
+    <div class="titular-de-programa">
+      <div class="titular-leyenda">Boletín informativo</div>
+        <div class="nombre-titular">Pacífico Sur</div>
+      </div>
+    </div>
+
+    <div id="portada" class="portada"></div> <!-- primer noticia -->
+
+    <main class="mainClima">
+      
+      <div class="noticias"></div>
+
+      <div class="juegos-aside">
+        <details class="details">
+          <summary>VER CLIMA</summary>
+          <div class="consulta-clima">      
+            <form id="formClima" class="clima" action="">
+              <p>Conocer la temperatura</p>
+              <input id="localidad" type="text" placeholder="Localidad" />   
+              <button id="obtenerClima" type="submit">&#8680;</button>
+            </form>
+            <div class="map-container">
+              <div id="map"></div>
+            </div>
+        </div>
+        </details>
+       
+        <details class="details">
+          <summary>JUEGOS</summary>
+          <div class="relative">
+            <div class="oculta-datos-iframe"></div>
+            <iframe class="sopa-de-letras" src="https://wordch.com/es/sopas-de-letras/1" frameborder="0" scrolling='no'></iframe>
+          </div>
+        </details>
+        
+      </div>
+
+    </main>    
+
+    <footer>
+      <p id="text">Todos los derechos reservados</p>
+    </footer>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    
+
+  </body>
+</html>
