@@ -514,7 +514,8 @@ div#history {
   gap: 80px;
 
   @media (max-width: 900px) {
-    gap: 0;
+    gap: 10px;
+    width: 95%;
   }
 }
 div.consulta-clima {
@@ -523,7 +524,7 @@ div.consulta-clima {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin-top: 2em;
+  margin-top: 2.5em;
   margin-bottom: 3em;
 }
 
@@ -570,7 +571,6 @@ news-card {
     margin: 10px;
     line-height: 26px;
   }
-
 }
 .spanHumedad {
   transform: translateX(100px);
@@ -578,13 +578,11 @@ news-card {
   p {
     margin-top: 0em;
   }
-
 }
 
 .tempLabel {
   font-size: 24px;
 }
-
 
 footer {
   background-color: rgb(40, 29, 49);
@@ -759,7 +757,8 @@ span.close {
   #map {
     margin: 0 auto;
     height: 60vh;
-    width: 600px;
+    min-width: 380px;
+    max-width: 450px;
   }
 }
 
@@ -892,7 +891,8 @@ span.close {
   #map {
     margin: 0 auto;
     height: 60vh;
-    width: 400px;
+    min-width: 250px;
+    width: 300px;
   }
   .resultados {
     margin-inline: auto;
@@ -1021,8 +1021,6 @@ span.close {
   main.mainClima .juegos-aside {
     order: 1;
   }
-
- 
 }
 summary {
   font-family: "Roboto Condensed", sans-serif;
@@ -1031,7 +1029,7 @@ summary {
   @media ( width < 800px ) {
     visibility: visible;
     font-size: 18px;    
-    margin: 15px -20px;
+    margin: 15px;
     cursor: default;
   }
 }  
