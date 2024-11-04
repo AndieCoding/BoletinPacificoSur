@@ -937,7 +937,6 @@ span.close {
   align-items: center;
   font-family: Cinzel;
   position: absolute;
-  margin: auto;
   backdrop-filter: blur(2px);
   box-shadow: 1px 1px 5px 1px rgb(162, 146, 175, 0.1);
   left: calc(50% - (321px / 2));
@@ -1036,3 +1035,9 @@ summary {
     cursor: default;
   }
 }  
+
+@media (max-width:500px) {
+  .nombre-titular {    
+    font-size: 44px;
+  }
+}
