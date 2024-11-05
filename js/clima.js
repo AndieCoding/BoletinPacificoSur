@@ -134,8 +134,17 @@ async function changeMap() {
 }
 
 function resize() {
+  const currentHeight = window.innerHeight;
   const details = document.querySelectorAll('.details');
+
+  if (Math.abs( currentHeight - initialHeight) < 50 ) {    
+    return;
+  }
+   
+  initialHeight = currentHeight;  
+
   details.forEach( tag => {
+    
     if ( window.innerWidth < 800 ) {
       tag.removeAttribute('open');
     } else {
@@ -144,5 +153,6 @@ function resize() {
   })
 }
 
+let initialHeight = window.innerHeight;
 window.addEventListener('resize', resize);
 resize();
