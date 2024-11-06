@@ -135,9 +135,10 @@ async function changeMap() {
 
 function resize() {
   const currentHeight = window.innerHeight;
+  const currentWidth = window.innerWidth;
   const details = document.querySelectorAll('.details');
 
-  if (Math.abs( currentHeight - initialHeight) < 50 ) {    
+  if (Math.abs( currentHeight - initialHeight) < 100 && currentWidth < 800 ) {    
     return;
   }
    
@@ -145,7 +146,7 @@ function resize() {
 
   details.forEach( tag => {
     
-    if ( window.innerWidth < 800 ) {
+    if ( currentWidth < 800 ) {
       tag.removeAttribute('open');
     } else {
       tag.setAttribute('open', 'true');
