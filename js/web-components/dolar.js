@@ -6,22 +6,19 @@ export class Dolar extends HTMLElement {
 
   getStyles() {
     return `
-    
     <style>
-
       :host {
         display: block;
         font-size: 1.5rem;
         color: black;
         font-family: "Roboto Condensed", sans-serif;
         position: relative;
-        
       }
 
       summary {
         visibility: hidden;
 
-        @media ( width < 700px ) {
+        @media ( width < 800px ) {
           visibility: visible;
           margin-left: 1em;
           font-size: 18px;
@@ -103,7 +100,7 @@ export class Dolar extends HTMLElement {
 
   checkWindowWidth() {
     const $details = this.shadowRoot.querySelector('details');
-    if (window.innerWidth < 700) {
+    if (window.innerWidth < 800) {
       $details.removeAttribute('open');
     } else {
       $details.setAttribute('open', '');
@@ -115,7 +112,7 @@ export class Dolar extends HTMLElement {
     const dollars = await response.json();
     //console.log(dollars);
     this.shadowRoot.querySelector(".dolar-container").innerHTML = dollars.map( (dolar) => {
-        if (dolar.nombre == 'Contado con liquidación') dolar.nombre = 'C. con Liqui';
+        if (dolar.nombre == 'Contado con liquidación') dolar.nombre = 'Liqui';
         return `
         <div class="dolar">
             <p class="dolar-type">${dolar.nombre.slice(0,17)}</p>

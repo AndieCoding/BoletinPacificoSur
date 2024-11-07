@@ -14,6 +14,13 @@ const user = new functions.User(
   '1234'
 );
 
+window.addEventListener('load', async () => {
+ setTimeout(() => {      
+    document.querySelector('body').classList.remove('no-scroll');
+      document.querySelector('.loader').style.display = 'none';
+  }, 1000);  
+});
+
 document.addEventListener("DOMContentLoaded", async () => {
   const userName = document.getElementById("userName");
   const spanTemp = document.getElementById("spanTemp");
