@@ -22,14 +22,7 @@ window.addEventListener('load', async () => {
 });
 
 document.addEventListener("DOMContentLoaded", async () => {
-  const userName = document.getElementById("userName");
-  const spanTemp = document.getElementById("spanTemp");
-  const spanLocalidad = document.getElementById("spanLocalidad");    
-  const userLogged = user.user;
   const encodedCity = encodeURIComponent(user.city);
-
-//  spanLocalidad.innerText = `${user.city}`;
-  
 
   //estilos de la primer card
   const firstCard = document.querySelector('#portada news-card');
@@ -44,7 +37,6 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   try {
     const data = await station.obtenerClima(user.country, encodedCity);  
-    const tempActual = data.tempActual;
 
     const response = await fetch(`https://geocode.maps.co/search?q=${encodedCity}&api_key=65b2703b12bdc409410812jxbd55c41`);
     const result = await response.json();
@@ -63,7 +55,6 @@ document.addEventListener("DOMContentLoaded", async () => {
   }  
 });
 
-
 async function obtenerClima(city) {
   let localidad = city ? city : document.querySelector("input#localidad").value;
   let pais = "Argentina";
@@ -76,13 +67,9 @@ async function obtenerClima(city) {
   const data = await station.obtenerClima(pais, encodeURIComponent(localidad)); 
   
   if (data.cod == 404) {
-
     return mostrarError("No se encuentra la localidad");
-
   } else {
-  
     mostrarResultado(data.humedad, data.tempActual);
-
   }
 }
 

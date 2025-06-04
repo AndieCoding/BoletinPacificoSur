@@ -2,4 +2,341 @@ Para alojar en localStorage.
 
 clave: 'data';
 value:
-{"status":"success","totalResults":45,"results":[{"article_id":"15226c958734c00662aceb06730f4194","title":"Asesinan a balazos a periodista en el occidente de México","link":"https://www.elvocero.com/el-mundo/latinoamerica/asesinan-a-balazos-a-periodista-en-el-occidente-de-m-xico/article_2a6e265a-9718-11ef-b052-9fa92df5c791.html","keywords":null,"creator":["Associated Press"],"video_url":null,"description":"Un periodista que dirigía un portal local de noticias fue asesinado a balazos en una localidad del occidente de México donde operan varios grupos delictivos que mantienen una lucha por el control del territorio.","content":"ONLY AVAILABLE IN PAID PLANS","pubDate":"2024-10-30 23:39:00","pubDateTZ":"UTC","image_url":"https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/5/b7/5b7f968e-9718-11ef-b493-9bf19ccbd678/6722c406e243a.image.jpg?resize=300%2C200","source_id":"elvocero","source_priority":19419,"source_name":"El Vocero","source_url":"https://www.elvocero.com","source_icon":"https://i.bytvi.com/domain_icons/elvocero.png","language":"spanish","country":["puerto rico"],"category":["world"],"ai_tag":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","sentiment":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","sentiment_stats":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","ai_region":"ONLY AVAILABLE IN CORPORATE PLANS","ai_org":"ONLY AVAILABLE IN CORPORATE PLANS","duplicate":true},{"article_id":"30fa6be659065bc72742f2b19fe5e3d3","title":"Bolivia: Arce exige a aliados de Morales levantar bloqueos de carreteras y advierte con ejercer otras medidas","link":"https://elcomercio.pe/mundo/latinoamerica/bolivia-luis-arce-exige-a-aliados-de-evo-morales-levantar-bloqueos-de-carreteras-y-advierte-con-ejercer-otras-medidas-cochabamba-mas-ultimas-noticia/","keywords":null,"creator":null,"video_url":null,"description":"El presidente de Bolivia, Luis Arce, exigió este miércoles a los sectores afines al exmandatario Evo Morales (2006-2019) que levanten los bloqueos de carreteras que realizan desde hace 17 días y advirtió con ejercer medidas “constitucionales” para “precautelar” el bienestar del país.","content":"ONLY AVAILABLE IN PAID PLANS","pubDate":"2024-10-30 22:50:09","pubDateTZ":"UTC","image_url":"https://elcomercio.pe/resizer/v2/YR6GY4KXLFENFDZKD4FS23SIH4.jpg?auth=7b50da799d433f67296e5f818408875dfd50d5cb8e1b29f916b0af3166238fd4&height=528&quality=75&smart=true&width=980","source_id":"elcomercio","source_priority":3365,"source_name":"El Comercio Perú","source_url":"https://elcomercio.pe","source_icon":"https://i.bytvi.com/domain_icons/elcomercio.png","language":"spanish","country":["peru"],"category":["world"],"ai_tag":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","sentiment":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","sentiment_stats":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","ai_region":"ONLY AVAILABLE IN CORPORATE PLANS","ai_org":"ONLY AVAILABLE IN CORPORATE PLANS","duplicate":false},{"article_id":"49cb6fb22ecc6ee6897e6081e930111e","title":"Javier Milei despidió a su canciller tras voto de Argentina a favor de Cuba en la ONU","link":"https://www.eltiempo.com/mundo/latinoamerica/javier-milei-despidio-a-su-canciller-tras-voto-de-argentina-a-favor-de-cuba-en-la-onu-3395361","keywords":["latinoamérica"],"creator":null,"video_url":null,"description":"El mandatario destituyó a Diana Mondino y puso en el cargo a Gerardo Werthein.","content":"ONLY AVAILABLE IN PAID PLANS","pubDate":"2024-10-30 21:57:13","pubDateTZ":"UTC","image_url":"https://imagenes.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/04/01/660b171b6d74b.r_d.496-502-0.jpeg","source_id":"eltiempocl","source_priority":3806,"source_name":"Eltiempo","source_url":"https://www.eltiempo.com","source_icon":"https://i.bytvi.com/domain_icons/eltiempocl.png","language":"spanish","country":["singapore"],"category":["world"],"ai_tag":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","sentiment":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","sentiment_stats":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","ai_region":"ONLY AVAILABLE IN CORPORATE PLANS","ai_org":"ONLY AVAILABLE IN CORPORATE PLANS","duplicate":false},{"article_id":"17055b2c35af6ccb8fd97869dfda485b","title":"Venden la Casa Curutchet, la gran obra maestra de Le Corbusier en Latinoamérica, al Colegio de Arquitectos de la provincia","link":"https://www.lanacion.com.ar/cultura/venden-la-casa-curutchet-la-gran-obra-maestra-de-le-corbusier-en-latinoamerica-al-colegio-de-nid30102024/","keywords":["cultura"],"creator":["Vivian Urfeig"],"video_url":null,"description":"Declarado Patrimonio de la Humanidad por la Unesco, el emblemático edificio de interés cultural en La Plata, ya lo alquila la misma entidad que lo habría sido adquirido por unos dos millones de dólares; los planes a futuro","content":"ONLY AVAILABLE IN PAID PLANS","pubDate":"2024-10-30 21:51:28","pubDateTZ":"UTC","image_url":"https://resizer.glanacion.com/resizer/v2/DXWQTVDQFREBPK4NPLSQWHFMHY.jpg?auth=6b96c0a483d59475bba37729f13eb7402c8bb69e0c4e3cf9acaf6e6527fa7c5a&height=1300&smart=true&width=2000","source_id":"lanacion","source_priority":7204,"source_name":"La Nacion","source_url":"https://www.lanacion.com.ar","source_icon":"https://i.bytvi.com/domain_icons/lanacion.png","language":"spanish","country":["argentina"],"category":["top"],"ai_tag":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","sentiment":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","sentiment_stats":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","ai_region":"ONLY AVAILABLE IN CORPORATE PLANS","ai_org":"ONLY AVAILABLE IN CORPORATE PLANS","duplicate":false},{"article_id":"a54e3f5a0f6c9867d13fb847c51e996b","title":"Milei despidió a su canciller tras voto de Argentina a favor de Cuba en la ONU","link":"https://elcomercio.pe/mundo/latinoamerica/javier-milei-despidio-a-su-canciller-diana-mondino-tras-voto-de-argentina-a-favor-de-cuba-en-la-onu-gerardo-werthein-estados-unidos-manuel-adorni-ultimas-noticia/","keywords":null,"creator":null,"video_url":null,"description":"El presidente argentino Javier Milei destituyó a su canciller, Diana Mondino y la reemplazó por el embajador en Washington, luego de que Argentina votara este miércoles en la ONU en contra del embargo a Cuba impuesto hace décadas por Estados Unidos, informó el portavoz de presidencia.","content":"ONLY AVAILABLE IN PAID PLANS","pubDate":"2024-10-30 21:30:24","pubDateTZ":"UTC","image_url":"https://elcomercio.pe/resizer/v2/ZQ2YWMFJCJCELEO3STZO5ARWAE.jpg?auth=aba830626c0913e1717efabb1f6ad389f34428a11e85ae658d20cb0a1c7e0a50&height=528&quality=75&smart=true&width=980","source_id":"elcomercio","source_priority":3365,"source_name":"El Comercio Perú","source_url":"https://elcomercio.pe","source_icon":"https://i.bytvi.com/domain_icons/elcomercio.png","language":"spanish","country":["peru"],"category":["world"],"ai_tag":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","sentiment":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","sentiment_stats":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","ai_region":"ONLY AVAILABLE IN CORPORATE PLANS","ai_org":"ONLY AVAILABLE IN CORPORATE PLANS","duplicate":false},{"article_id":"3c43bf3312aade7d61750aac09d56eae","title":"Bolivia: Fiscal asegura que ya tiene “pruebas materiales” en caso de trata y estupro contra Morales","link":"https://elcomercio.pe/mundo/latinoamerica/bolivia-fiscal-asegura-que-ya-tiene-pruebas-materiales-en-caso-de-trata-y-estupro-contra-evo-morales-luis-arce-ultimas-noticia/","keywords":null,"creator":null,"video_url":null,"description":"La fiscal departamental de Tarija, Sandra Gutiérrez, afirmó este miércoles que ya tiene “pruebas materiales” en el caso por trata de personas y estupro en contra del expresidente de Bolivia, Evo Morales (2006-2019), luego de 19 días del anuncio que hizo sobre una orden de aprehensión en contra del exmandatario, medida que aún no se cumple.","content":"ONLY AVAILABLE IN PAID PLANS","pubDate":"2024-10-30 18:46:46","pubDateTZ":"UTC","image_url":"https://elcomercio.pe/resizer/v2/HKCPX7LJVBGTTJWCA6VPK2OQTY.jpg?auth=2123f564456d6fc0f2b48f885c9a1ed8b807cf66d8dc758913678a3cf48bdf06&height=528&quality=75&smart=true&width=980","source_id":"elcomercio","source_priority":3365,"source_name":"El Comercio Perú","source_url":"https://elcomercio.pe","source_icon":"https://i.bytvi.com/domain_icons/elcomercio.png","language":"spanish","country":["peru"],"category":["world"],"ai_tag":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","sentiment":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","sentiment_stats":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","ai_region":"ONLY AVAILABLE IN CORPORATE PLANS","ai_org":"ONLY AVAILABLE IN CORPORATE PLANS","duplicate":false},{"article_id":"f83bdda5e71c597649549eb0ef64b9b8","title":"Tragedia en España: Colombia confirma 2 desaparecidos en Valencia, pero por ahora no hay fallecidos","link":"https://elcomercio.pe/mundo/latinoamerica/la-dana-en-espana-valencia-tragedia-en-espana-colombia-confirma-2-desaparecidos-en-valencia-pero-por-ahora-no-hay-fallecidos-gustavo-petro-pedro-sanchez-ultimas-noticia/","keywords":null,"creator":null,"video_url":null,"description":"El Gobierno de Colombia informó este miércoles que “hasta el momento” no hay colombianos identificados entre los fallecidos en Valencia por la dana que asoló esa región del este de España, aunque hay dos connacionales desaparecidos por la tormenta que deja al menos 70 muertos.","content":"ONLY AVAILABLE IN PAID PLANS","pubDate":"2024-10-30 16:37:19","pubDateTZ":"UTC","image_url":"https://elcomercio.pe/resizer/v2/EJ2C2Y3XCBBMVCO3E5FX52RVMU.jpg?auth=df009acc896110fa10c470ab67a54bf13f32e3848f4c9336e0e66ef28769d552&height=528&quality=75&smart=true&width=980","source_id":"elcomercio","source_priority":3365,"source_name":"El Comercio Perú","source_url":"https://elcomercio.pe","source_icon":"https://i.bytvi.com/domain_icons/elcomercio.png","language":"spanish","country":["peru"],"category":["world"],"ai_tag":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","sentiment":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","sentiment_stats":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","ai_region":"ONLY AVAILABLE IN CORPORATE PLANS","ai_org":"ONLY AVAILABLE IN CORPORATE PLANS","duplicate":false},{"article_id":"f539a0f6cb5d119240cab8c3a724d54d","title":"Evo Morales asegura que si es capturado habrá un “levantamiento” indígena y militar en Bolivia","link":"https://elcomercio.pe/mundo/latinoamerica/evo-morales-asegura-que-si-es-capturado-habra-un-levantamiento-indigena-y-militar-en-bolivia-luis-arce-cochabamba-chapare-bloqueos-de-caminos-carreteras-noticia/","keywords":null,"creator":null,"video_url":null,"description":"Evo Morales | Bolivia | El líder cocalero está atrincherado desde hace 17 días en la región del Chapare, su bastión político y sindical, durante los cuales sus seguidores empezaron a bloquear las carreteras principales en el centro del país","content":"ONLY AVAILABLE IN PAID PLANS","pubDate":"2024-10-30 15:29:16","pubDateTZ":"UTC","image_url":"https://elcomercio.pe/resizer/v2/YGXU4OUPUVC2XIEAKUFPS6U6JE.jpg?auth=3074b2375ae2d38dd2007cdbde547195345e9b3f013826674de68a88c193c676&height=528&quality=75&smart=true&width=980","source_id":"elcomercio","source_priority":3365,"source_name":"El Comercio Perú","source_url":"https://elcomercio.pe","source_icon":"https://i.bytvi.com/domain_icons/elcomercio.png","language":"spanish","country":["peru"],"category":["world"],"ai_tag":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","sentiment":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","sentiment_stats":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","ai_region":"ONLY AVAILABLE IN CORPORATE PLANS","ai_org":"ONLY AVAILABLE IN CORPORATE PLANS","duplicate":false},{"article_id":"a39de6da6fadb245448b038268cb0413","title":"Argentina: caos en Buenos Aires por la huelga del transporte aéreo, trenes, metro y taxis","link":"https://elcomercio.pe/mundo/latinoamerica/argentina-caos-en-buenos-aires-por-la-huelga-del-transporte-aereo-trenes-metro-y-taxis-javier-milei-ultimas-noticia/","keywords":null,"creator":null,"video_url":null,"description":"La ciudad de Buenos Aires amaneció este miércoles con largas filas en las paradas de autobuses, el único medio de transporte que opera en la capital argentina a causa de una huelga de 24 horas que afecta a los aviones, trenes, metro capitalino (Subte) y taxis.","content":"ONLY AVAILABLE IN PAID PLANS","pubDate":"2024-10-30 15:01:16","pubDateTZ":"UTC","image_url":"https://elcomercio.pe/resizer/v2/EIGDPKND5ZEQVORU3AQ32RQ66I.jpg?auth=78a0dcd84749770bcfb24a07a401c2e1bfe867fd625bf9626c0c7783c5036ff0&height=528&quality=75&smart=true&width=980","source_id":"elcomercio","source_priority":3365,"source_name":"El Comercio Perú","source_url":"https://elcomercio.pe","source_icon":"https://i.bytvi.com/domain_icons/elcomercio.png","language":"spanish","country":["peru"],"category":["world"],"ai_tag":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","sentiment":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","sentiment_stats":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","ai_region":"ONLY AVAILABLE IN CORPORATE PLANS","ai_org":"ONLY AVAILABLE IN CORPORATE PLANS","duplicate":false},{"article_id":"adb45d070be26dec1d0a9a28d3242632","title":"Líderes periodísticos de la región serán capacitados en gestión de productos editoriales","link":"https://www.eltiempo.com/mundo/latinoamerica/lideres-periodisticos-de-la-region-seran-capacitados-en-gestion-de-productos-editoriales-3395101","keywords":["latinoamérica"],"creator":null,"video_url":null,"description":"Participarán en un programa desarrollado para el Grupo de Diarios América por la News Product Alliance, con apoyo de Google News Initiative.","content":"ONLY AVAILABLE IN PAID PLANS","pubDate":"2024-10-30 12:45:00","pubDateTZ":"UTC","image_url":"https://imagenes.eltiempo.com/files/image_1200_600/uploads/2024/10/30/67222770ef59a.jpeg","source_id":"eltiempocl","source_priority":3806,"source_name":"Eltiempo","source_url":"https://www.eltiempo.com","source_icon":"https://i.bytvi.com/domain_icons/eltiempocl.png","language":"spanish","country":["singapore"],"category":["world"],"ai_tag":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","sentiment":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","sentiment_stats":"ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS","ai_region":"ONLY AVAILABLE IN CORPORATE PLANS","ai_org":"ONLY AVAILABLE IN CORPORATE PLANS","duplicate":true}],"nextPage":"1730292300582678009"}
+
+ {
+    "status": "success",
+    "totalResults": 68,
+    "results": [
+        {
+            "article_id": "3063c399cad3ab140da6eb0aea8f3887",
+            "title": "La Justicia de Chile dicta el primer procesamiento por adopciones ilegales en la dictadura de Pinochet",
+            "link": "https://elcomercio.pe/mundo/latinoamerica/chile-la-justicia-dicta-el-primer-procesamiento-por-adopciones-ilegales-en-la-dictadura-de-augusto-pinochet-gabriel-boric-ivonne-gutierrez-pavez-san-fernando-alejandro-aguilar-brevis-gabriel-boric-ultimas-noticia/",
+            "keywords": null,
+            "creator": null,
+            "description": "La Justicia chilena procesó por primera vez a cinco personas por sustracción ilegal de menores durante la dictadura de Augusto Pinochet (1973-1990), lo que supone un hito en el país suramericano ya que hasta ahora ningún juez había logrado acreditar la existencia de una red de adopciones ilegales durante el régimen, informaron este lunes fuentes oficiales.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-04 02:39:13",
+            "pubDateTZ": "UTC",
+            "image_url": "https://elcomercio.pe/resizer/v2/SVBXYNCQMNGGXDMJDUUIRJKJEQ.jpg?auth=71a7c49c1eeaa943c6e9f3342329348dd4093444dab914f0c62495700b23dbf1&height=528&quality=75&smart=true&width=980",
+            "video_url": null,
+            "source_id": "elcomercio",
+            "source_name": "El Comercio Perú",
+            "source_priority": 3365,
+            "source_url": "https://elcomercio.pe",
+            "source_icon": "https://n.bytvi.com/elcomercio.png",
+            "language": "spanish",
+            "country": [
+                "peru"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "562a5a21631c7e2fe9ff224af8e27f2b",
+            "title": "Petro confirma que convocará por decreto la consulta popular, pese a negativa del Senado",
+            "link": "https://elcomercio.pe/mundo/latinoamerica/colombia-gustavo-petro-confirma-que-convocara-por-decreto-la-consulta-popular-pese-a-negativa-del-senado-corte-constitucional-efrain-cepeda-armando-benedetti-reforma-laboral-ultimas-noticia/",
+            "keywords": null,
+            "creator": null,
+            "description": "El presidente colombiano, Gustavo Petro, confirmó este martes que esta semana decretará la realización de la consulta popular para sacar adelante su reforma laboral, pese a que el Senado emitió el mes pasado un concepto negativo sobre la convocatoria de esa iniciativa.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-04 02:13:15",
+            "pubDateTZ": "UTC",
+            "image_url": "https://elcomercio.pe/resizer/v2/U5IWHYKDBBA5LGANKJP3WCWANU.jpg?auth=54fc4b9ac9a9e196bb2fb420a4a89b8a7aa3e733aeddd396f5f5a918e97275d9&height=528&quality=75&smart=true&width=980",
+            "video_url": null,
+            "source_id": "elcomercio",
+            "source_name": "El Comercio Perú",
+            "source_priority": 3365,
+            "source_url": "https://elcomercio.pe",
+            "source_icon": "https://n.bytvi.com/elcomercio.png",
+            "language": "spanish",
+            "country": [
+                "peru"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": true
+        },
+        {
+            "article_id": "189abb5cd7856073ff9799e6b4e83aaa",
+            "title": "Embajadora de México, Laura Moreno, tras encuentro GRULAC: “Urge fortalecer alianzas para una Latinoamérica con mayor justicia social”",
+            "link": "https://www.elciudadano.com/internacional/embajadora-de-mexico-laura-moreno-tras-encuentro-grulac-urge-fortalecer-alianzas-para-una-latinoamerica-con-mayor-justicia-social/06/03/",
+            "keywords": [
+                "internacional"
+            ],
+            "creator": [
+                "El Ciudadano"
+            ],
+            "description": "El CiudadanoDurante esta mañana se realizó el encuentro entre embajadoras, embajadores y representantes de países miembros del Grupo Regional de América Latina y el Caribe (GRULAC) acreditados en Chile. La cita tuvo lugar en las dependencias de la Embajada de Uruguay en Chile. En la instancia, además, participó el ministro de Relaciones Exteriores de Chile, Alberto [...]La entrada Embajadora de México, Laura Moreno, tras encuentro GRULAC: “Urge fortalecer alianzas para una Latinoamérica con mayor justicia social” se publicó primero en El Ciudadano.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-04 00:00:05",
+            "pubDateTZ": "UTC",
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOa6dEhfwrllcKR95RkkO6wl-bfLwOhh6QiA&s",
+            "video_url": null,
+            "source_id": "elciudadano",
+            "source_name": "El Ciudadano",
+            "source_priority": 583045,
+            "source_url": "https://www.elciudadano.com/cl",
+            "source_icon": "https://n.bytvi.com/elciudadano.png",
+            "language": "spanish",
+            "country": [
+                "chile"
+            ],
+            "category": [
+                "health"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f071d9e9d0e582082c01889b4fc84ea4",
+            "title": "El fuerte regaño que le hizo juez a colombiano capturado por asesinato de presidente de Haití: '¿Usted es tonto?'",
+            "link": "https://www.eltiempo.com/mundo/latinoamerica/el-fuerte-regano-que-le-hizo-juez-a-colombiano-capturado-por-asesinato-de-presidente-de-haiti-usted-es-tonto-3459961",
+            "keywords": [
+                "latinoamérica"
+            ],
+            "creator": null,
+            "description": "En plena audiencia, juez reprendió al colombiano que daba su versión del día del crimen de Jovenel Moïse.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-03 23:55:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://imagenes.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/06/03/683f8baf714c4.r_d.563-237-0.png",
+            "video_url": null,
+            "source_id": "eltiempocl",
+            "source_name": "Eltiempo",
+            "source_priority": 3806,
+            "source_url": "https://www.eltiempo.com",
+            "source_icon": "https://n.bytvi.com/eltiempocl.png",
+            "language": "spanish",
+            "country": [
+                "singapore"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "b0a675fd0c6eaa3f1184a9f8468c9187",
+            "title": "Ministra de Comunicaciones de Cuba expone prioridades como país socio de los BRICS en la CIPR-2025",
+            "link": "https://www.elciudadano.com/latinoamerica/ministra-de-comunicaciones-de-cuba-expone-prioridades-como-pais-socio-de-los-brics-en-la-cipr-2025/06/03/",
+            "keywords": [
+                "ciencia y tecnología",
+                "miguel díaz-canel",
+                "política",
+                "brics",
+                "mayra arevich marín",
+                "cuba",
+                "latinoamérica"
+            ],
+            "creator": [
+                "El Ciudadano México"
+            ],
+            "description": "El CiudadanoLa asociación con los BRICS abre nuevas oportunidades para Cuba en materia de ciencia, tecnología y cooperación internacional. Así lo explicó la ministra de Comunicaciones de la República de Cuba, Mayra Arevich Marín, en una entrevista con TV BRICS. «La posibilidad de estar en la alianza de inteligencia artificial con los BRICS, eso nos va [...]La entrada Ministra de Comunicaciones de Cuba expone prioridades como país socio de los BRICS en la CIPR-2025 se publicó primero en El Ciudadano.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-03 23:31:52",
+            "pubDateTZ": "UTC",
+            "image_url": "https://imagedelivery.net/ue4aG0YFlZz5n2eXb6lOxg/2025_06_03_mayra_8cc986b90d.jpg/width=3840,quality=60,fit=scale-down,dpr=1,slow-connection-quality=40",
+            "video_url": null,
+            "source_id": "elciudadano",
+            "source_name": "El Ciudadano",
+            "source_priority": 583045,
+            "source_url": "https://www.elciudadano.com/cl",
+            "source_icon": "https://n.bytvi.com/elciudadano.png",
+            "language": "spanish",
+            "country": [
+                "chile"
+            ],
+            "category": [
+                "health"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "f14e76e65aef9d49cf176dcc54135743",
+            "title": "Torneo Nacional Interuniversidades de ESPORTS que clasifica al Mundial Universitario Rusia 2025",
+            "link": "https://depor.com/depor-play/esports/torneo-nacional-interuniversidades-de-esports-que-clasifica-al-mundial-universitario-rusia-2025-noticia/",
+            "keywords": null,
+            "creator": null,
+            "description": "Se inician las inscripciones para este evento, donde el campeón nacional se medirá con las mejores universidades de Latinoamerica y el campeon viajará a Rusia para la Final Mundial Interuniversidades por un premio de 60 mil dólares.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-03 23:12:16",
+            "pubDateTZ": "UTC",
+            "image_url": "https://e-an.americatv.com.pe/actualidad-torneo-interuniversitario-esports-lleva-rusia-2025-n507236-696x418-1106636.jpg",
+            "video_url": null,
+            "source_id": "depor",
+            "source_name": "Depor",
+            "source_priority": 32550,
+            "source_url": "https://depor.com",
+            "source_icon": "https://n.bytvi.com/depor.png",
+            "language": "spanish",
+            "country": [
+                "colombia"
+            ],
+            "category": [
+                "sports"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "202e1df3d3518e32ba2e255c1cd96a2e",
+            "title": "Asamblea Nacional de Ecuador aprueba instalación de bases militares extranjeras en el país",
+            "link": "https://elcomercio.pe/mundo/latinoamerica/ecuador-asamblea-nacional-aprueba-instalacion-de-bases-militares-extranjeras-en-el-pais-daniel-noboa-quito-corte-constitucional-estados-unidos-ricardo-patino-ultimas-noticia/",
+            "keywords": null,
+            "creator": null,
+            "description": "El Congreso de Ecuador, de mayoría oficialista, aprobó este martes una reforma constitucional para permitir el establecimiento de bases militares extranjeras en el país, que deberá ser avalada ahora en referéndum.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-03 22:35:03",
+            "pubDateTZ": "UTC",
+            "image_url": "https://elcomercio.pe/resizer/v2/64BNSHZ3CRD7ZLWDO2EF4FKUZI.jpg?auth=3df5c15842ef92e651b74d70e7ea7040befada5c972ae78e9e92d1859d69b4c3&height=528&quality=75&smart=true&width=980",
+            "video_url": null,
+            "source_id": "elcomercio",
+            "source_name": "El Comercio Perú",
+            "source_priority": 3365,
+            "source_url": "https://elcomercio.pe",
+            "source_icon": "https://n.bytvi.com/elcomercio.png",
+            "language": "spanish",
+            "country": [
+                "peru"
+            ],
+            "category": [
+                "world"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "db167f2c9f3d0f73a33f83d02f7605eb",
+            "title": "Aeropuerto de Hermosillo, el mejor de Latinoamérica en su categoría: Durazo destaca logros y planes de expansión",
+            "link": "https://www.elimparcial.com/son/sonora/2025/06/03/aeropuerto-de-hermosillo-el-mejor-de-latinoamerica-en-su-categoria-durazo-destaca-logros-y-planes-de-expansion/",
+            "keywords": null,
+            "creator": [
+                "Gabriela Rivera"
+            ],
+            "description": "El gobernador Alfonso Durazo celebró que el aeropuerto de Hermosillo fue nombrado el mejor de Latinoamérica y el Caribe en su categoría, destacando su papel clave para el desarrollo económico de Sonora.",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-03 21:43:01",
+            "pubDateTZ": "UTC",
+            "image_url": null,
+            "video_url": null,
+            "source_id": "elimparcial",
+            "source_name": "El Imparcial",
+            "source_priority": 25219,
+            "source_url": "https://www.elimparcial.com",
+            "source_icon": "https://n.bytvi.com/elimparcial.png",
+            "language": "spanish",
+            "country": [
+                "mexico"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "340ab9419ace2aeec73cbd9f8e741a6f",
+            "title": "Aeroméxico se convertirá en la única aerolínea en Latinoamérica con mensajería gratuita en todos sus vuelos",
+            "link": "https://www.elimparcial.com/mexico/2025/06/03/aeromexico-se-convertira-en-la-unica-aerolinea-en-latinoamerica-con-mensajeria-gratuita-en-todos-sus-vuelos/",
+            "keywords": null,
+            "creator": [
+                "Elsi V. Ventura"
+            ],
+            "description": "La instalación del servicio ya comenzó en sus aviones Embraer 190 y estará completa en algunos años",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-03 21:07:25",
+            "pubDateTZ": "UTC",
+            "image_url": "https://www.elimparcial.com/resizer/v2/KC7AXQ7TNVCRXBQMRITIJTQFOU.jpg?auth=c671c0471658558dcb8c368f1440842d825883eed9f5c2f938ba84bc9f1233ac&height=2311&smart=true&width=3500",
+            "video_url": null,
+            "source_id": "elimparcial",
+            "source_name": "El Imparcial",
+            "source_priority": 25219,
+            "source_url": "https://www.elimparcial.com",
+            "source_icon": "https://n.bytvi.com/elimparcial.png",
+            "language": "spanish",
+            "country": [
+                "mexico"
+            ],
+            "category": [
+                "business"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        },
+        {
+            "article_id": "2bd4cd0de7ddfd72baa4c2faa209c6f9",
+            "title": "“Chespirito, sin querer queriendo”: tráiler y fecha de estreno confirmada",
+            "link": "https://elcomercio.pe/saltar-intro/hbo/series/chespirito-sin-querer-queriendo-fecha-de-estreno-de-la-serie-biografica-en-max-latinoamerica-noticia/",
+            "keywords": null,
+            "creator": null,
+            "description": "Fecha de estreno de \"Sin querer queriendo\", la bioserie sobre Roberto Gómez Bolaños que emitirá MAX",
+            "content": "ONLY AVAILABLE IN PAID PLANS",
+            "pubDate": "2025-06-03 20:35:00",
+            "pubDateTZ": "UTC",
+            "image_url": "https://elcomercio.pe/resizer/v2/N5NPHMOZGZBLZM3C3KVT7XAGU4.jpg?auth=cf7f65e11a0d8dc2a5a4c4ab36ac7fa1f7a813c9290baebd6039c72dc02345a1&height=528&quality=75&smart=true&width=980",
+            "video_url": null,
+            "source_id": "elcomercio",
+            "source_name": "El Comercio Perú",
+            "source_priority": 3365,
+            "source_url": "https://elcomercio.pe",
+            "source_icon": "https://n.bytvi.com/elcomercio.png",
+            "language": "spanish",
+            "country": [
+                "peru"
+            ],
+            "category": [
+                "entertainment"
+            ],
+            "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+            "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+            "duplicate": false
+        }
+    ],
+    "nextPage": "1748982900718280112"
+}
