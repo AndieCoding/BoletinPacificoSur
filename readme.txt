@@ -1,5 +1,7 @@
 BOLETÍN INFORMATIVO PACÍFICO SUR
 
+Demo: https://boletinpacificosur.netlify.app/
+
 El boletín informativo Pacífico Sur es una app informativa que muestra las últimas novedades de la región sudamericana en un formato cómodo y conciso, acompañado de otros datos de importancia, como el precio del dólar en Argentina, consultas del clima y una sopa de letras.
 
 La navegación de la página está formada por: 
